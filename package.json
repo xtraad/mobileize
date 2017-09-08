@@ -1,0 +1,8 @@
+{
+  "name": "helloworld",
+  "description": "flip and dip store finder",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.11.3"
+  }
+}
